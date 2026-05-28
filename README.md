@@ -7,9 +7,11 @@ This repository contains my learning journey in:
 - Test Cases
 
 ## Tools Learning
-- Selenium
+- Selenium WebDriver
 - Python
 - GitHub
+- Docker
+- Jenkins
 
 ## Goals
 - Build automation projects
