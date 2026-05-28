@@ -18,6 +18,6 @@ Invalid Login Test_01
 
 Invalid Login Test_02
     Launch Browser    ${URL}    ${BROWSER}
-    Login To Application    ${USERNAME_02}    ${PASSWORD_01}
+    Login To Application    ${USERNAME_02}    ${PASSWORD}
     Sleep    5s
     Close Application
