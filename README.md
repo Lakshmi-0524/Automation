@@ -2,6 +2,7 @@
 This repository contains my learning journey in:
 - Automation Testing
 - Robot framework
+- PyTest framework
 - Selenium Basics
 - Python Practice
 - Test Cases
